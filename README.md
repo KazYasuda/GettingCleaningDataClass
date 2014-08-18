@@ -33,9 +33,9 @@ Each of the parameters below is the averages of the measurement of the given act
 **tGravityAccMeanY**	:estimated mean value of gravity acceleration measurements in time domain signals  in  Y direction
 
 **tGravityAccMeanZ**	:estimated mean value of gravity acceleration measurements in time domain signals in  Z direction
-tGravityAccStdX			:estimated standard deviation of gravity acceleration measurements in time domain signals  in  X direction
+**tGravityAccStdX**			:estimated standard deviation of gravity acceleration measurements in time domain signals  in  X direction
 
-tGravityAccStdY			:estimated standard deviation of gravity acceleration measurements in time domain signals  in  Y direction
+**tGravityAccStdY**			:estimated standard deviation of gravity acceleration measurements in time domain signals  in  Y direction
 
 **tGravityAccStdZ**		:estimated standard deviation of gravity acceleration measurements in time domain signals  in  Z direction
 
