@@ -1,18 +1,19 @@
-Smartphone Sensor Data Analysis
+Smartphone Sensor Data Analysis - Code Book
 ========================
 Code Book
-The name of the file that contains the Tidy Data that is required is “TidyData2.txt”. 
+The name of the file that contains the Tidy Data that is required is **TidyData2.txt**. 
 
-Subject			integer identifying the volunteers
+**Subject**	integer identifying the volunteers
 						1..30 unique identifier for each subject
 						
-Activities	subject’s activities - characters
-						STANDING
-						SITTING
-						LAYING
-						WALKING
-						WALKING_DOWNSTAIRS
-						WALKING_UPSTAIRS
+**Activities**	
+subject’s activities - characters
++	STANDING
++	SITTING
++	LAYING
++	WALKING
++	WALKING_DOWNSTAIRS
++	WALKING_UPSTAIRS
 						
 Each of the parameters below is the averages of the measurement of the given activity by the given subject identified in the previous two columns. They are all in numeric forms. Variable names are bracketed in double quotations
 
