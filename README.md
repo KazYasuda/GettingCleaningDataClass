@@ -6,8 +6,7 @@ The name of the file that contains the Tidy Data that is required is **TidyData2
 **Subject**	integer identifying the volunteers
 						1..30 unique identifier for each subject
 						
-**Activities**	
-subject’s activities - characters
+**Activities**	:subject’s activities - characters
 +	STANDING
 +	SITTING
 +	LAYING
