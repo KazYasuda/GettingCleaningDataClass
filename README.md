@@ -6,9 +6,9 @@ It is assumed that data.table package is installed.
 
 It is further assumed that the following files are saved in the working directory:
 
-+X_train.txt
-+X_test.txt
-+y_train.txt
-+y_test.txt
-+features.txt
-+activity_labels.txt
+* X_train.txt
+* X_test.txt
+* y_train.txt
+* y_test.txt
+* features.txt
+* activity_labels.txt
